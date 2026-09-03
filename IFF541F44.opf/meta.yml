@@ -1,0 +1,27 @@
+id: IFF541F44
+initial_creation_type: ebook
+source_metadata:
+  id: BEN-SH-001
+  title: ༄༅། །རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་རྒྱལ་སྲས་འཇུག་ངོགས་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། རྒྱལ་སྲས་དངུལ་ཆུ་ཐོགས་མེད་དམ་ཐོགས་མེད་བཟང་པོ།
+  authors: &id001
+  - མཛད་པ་པོ། རྒྱལ་སྲས་དངུལ་ཆུ་ཐོགས་མེད་དམ་ཐོགས་མེད་བཟང་པོ།
+  sku: BEN-SH-001
+  cover: Cover.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །རྒྱལ་སྲས་ལག་ལེན་སོ་བདུན་མའི་འགྲེལ་པ་རྒྱལ་སྲས་འཇུག་ངོགས་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: BEN-SH-001
+  cover: Cover.jpg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
