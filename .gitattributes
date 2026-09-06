@@ -1,0 +1,4 @@
+# OPF layers address base text by character offset, so a line-ending
+# conversion would silently misalign every annotation past the first line.
+# Never translate line endings in this repository.
+* -text
